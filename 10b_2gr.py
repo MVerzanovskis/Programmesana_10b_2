@@ -1,4 +1,4 @@
-print(10-2)
+print(10-2**3)
 Kudrjavceva Veronika
 2 	
 Melnic Ana
